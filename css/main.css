@@ -152,18 +152,18 @@ a{
 
 @media (min-width: 1440px){
     .main{
-        width: 990px;
+        width: 960px;
         background-color: rebeccapurple;
     }
     .item{
-        width: 330px;
+        width: 320px;
     }
     h2{
         font-size: 5rem;
     }
     p{
-        font-size: 1.8rem;
-        height: 250px;
+        font-size: 1.7rem;
+        height: 200px;
     }
 }
 

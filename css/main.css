@@ -136,6 +136,7 @@ a{
     .main{
         width: 900px;
         background-color: rebeccapurple;
+        margin-top: 1.2rem;
     }
     .item{
         width: 300px;
